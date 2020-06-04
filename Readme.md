@@ -7,3 +7,4 @@
 > > * [Merge Two Longest Substring Without Repeating Characters List](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/src/Adobe/Longest_Substring_Without_Repeating_Characters/Main.java)
 > > * [Longest Palindromic Substring](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/src/Adobe/Longest_Palindromic_Substring/Main.java)
 > > * [Container With Most Water](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/src/Adobe/Container_With_Most_Water/Main.java)
+> > * [Unique Email Addresses](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/src/Adobe/Unique_Email_Addresses/Main.java)
