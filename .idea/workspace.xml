@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9c3633f-5dc3-4248-806e-b069bd47f153" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LeetCode-Company-Wise-Coding-Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Company-Wise-Coding-Problems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Add_Two_Numbers/Main$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Add_Two_Numbers/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Container_With_Most_Water/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Jewels_And_Stones/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Longest_Palindromic_Substring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Longest_Substring_Without_Repeating_Characters/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Merge_Two_Sorted_Lists/Main$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Merge_Two_Sorted_Lists/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Reverse_Linked_List/Main$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Reverse_Linked_List/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Two_Sum/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Company-Wise-Coding-Problems/Adobe/Unique_Email_Addresses/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Add_Two_Numbers/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Container_With_Most_Water/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Jewels_And_Stones/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Longest_Palindromic_Substring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Longest_Substring_Without_Repeating_Characters/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Merge_Two_Sorted_Lists/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Reverse_Linked_List/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Two_Sum/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adobe/Unique_Email_Addresses/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cyJ9Qm9HaQJobQlRCue1dKK0xW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9c3633f-5dc3-4248-806e-b069bd47f153" name="Default Changelist" comment="" />
+      <created>1591494747451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591494747451</updated>
+      <workItem from="1591494751826" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2412" y="185" key="SettingsEditor" timestamp="1591494830668">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2412" y="185" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591494830668" />
+  </component>
+</project>
