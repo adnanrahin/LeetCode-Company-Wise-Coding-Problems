@@ -7,3 +7,6 @@
 > > * [Jewels And Stones](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/jewels_and_stones/__init__.py)
 > > * [Merge Two Sorted List](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/merge_two_sorted_list/__init__.py)
 > > * [Reverse Linked List](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/reverse_linked_list/__init__.py)
+
+## Amazon
+> > * [Group Anagrams](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/group_anagrams/__init__.py)
