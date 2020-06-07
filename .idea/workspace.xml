@@ -34,7 +34,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RunManager" selected="Python.__init__ (3)">
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -144,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591494747451</updated>
-      <workItem from="1591494751826" duration="10442000" />
+      <workItem from="1591494751826" duration="11349000" />
     </task>
     <servers />
   </component>
@@ -188,10 +189,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="364" key="GridCell.Tab.1.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591507795077" />
-    <state x="2412" y="185" key="SettingsEditor" timestamp="1591497066814">
+    <state x="2412" y="185" key="SettingsEditor" timestamp="1591508571885">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2412" y="185" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591497066814" />
+    <state x="2412" y="185" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591508571885" />
     <state x="2754" y="312" key="refactoring.ChangeSignatureDialog" timestamp="1591497073066">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
