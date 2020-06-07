@@ -14,3 +14,5 @@
 > > * [Binary Tree Zigzag Order Traversal](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/binary_tree_zigzag_level_order_traversal/__init__.py)
 > > * [Find Kth Largest Element](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/k_th_largest_element_in_an_array/__init__.py)
 > > * [Top K Frequent Elements](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/top_k_frquent_elements/__init__.py)
+> > * [Top K Frequent Elements](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/k_closest_point_to_origin/__init__.py)
+
