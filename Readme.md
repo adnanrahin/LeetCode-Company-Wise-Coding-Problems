@@ -10,4 +10,5 @@
 
 ## Amazon
 > > * [Group Anagrams](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/group_anagrams/__init__.py)
-> > * [Group Anagrams](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/binary_tree_level_order_traversal/__init__.py)
+> > * [Binary Tree Level Order Traversal](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/binary_tree_level_order_traversal/__init__.py)
+> > * [Binary Tree Zigzag Order Traversal](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Adobe/binary_tree_zigzag_level_order_traversal/__init__.py)
