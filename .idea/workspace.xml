@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f9c3633f-5dc3-4248-806e-b069bd47f153" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
@@ -171,7 +173,7 @@
       <workItem from="1591509184719" duration="2916000" />
       <workItem from="1591554235427" duration="15522000" />
       <workItem from="1591581118662" duration="622000" />
-      <workItem from="1591600148329" duration="3501000" />
+      <workItem from="1591600148329" duration="3723000" />
     </task>
     <servers />
   </component>
@@ -183,22 +185,22 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2629" y="447" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591497105238" />
-    <state width="536" height="952" key="GridCell.Tab.0.bottom" timestamp="1591603607277">
+    <state width="536" height="952" key="GridCell.Tab.0.bottom" timestamp="1591603656263">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603607277" />
-    <state width="536" height="952" key="GridCell.Tab.0.center" timestamp="1591603607277">
+    <state width="536" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603656263" />
+    <state width="536" height="952" key="GridCell.Tab.0.center" timestamp="1591603656263">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603607277" />
-    <state width="536" height="952" key="GridCell.Tab.0.left" timestamp="1591603607277">
+    <state width="536" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603656263" />
+    <state width="536" height="952" key="GridCell.Tab.0.left" timestamp="1591603656263">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603607277" />
-    <state width="536" height="952" key="GridCell.Tab.0.right" timestamp="1591603607277">
+    <state width="536" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603656263" />
+    <state width="536" height="952" key="GridCell.Tab.0.right" timestamp="1591603656263">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603607277" />
+    <state width="536" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591603656263" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1591601224701">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
