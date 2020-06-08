@@ -37,8 +37,8 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
-  <component name="RunManager" selected="Python.__init__">
-    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.__init__ (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Company-Wise-Coding-Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,12 +46,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adobe/reverse_linked_list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon/number_of_islands" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adobe/reverse_linked_list/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/number_of_islands/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.__init__ (5)" />
         <item itemvalue="Python.__init__ (3)" />
         <item itemvalue="Python.__init__ (4)" />
-        <item itemvalue="Python.__init__ (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,7 @@
       <updated>1591494747451</updated>
       <workItem from="1591494751826" duration="11495000" />
       <workItem from="1591509184719" duration="2916000" />
-      <workItem from="1591554235427" duration="8878000" />
+      <workItem from="1591554235427" duration="15371000" />
     </task>
     <servers />
   </component>
@@ -182,22 +182,22 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2629" y="447" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591497105238" />
-    <state width="536" height="952" key="GridCell.Tab.0.bottom" timestamp="1591571669347">
+    <state width="536" height="952" key="GridCell.Tab.0.bottom" timestamp="1591580807920">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591571669347" />
-    <state width="536" height="952" key="GridCell.Tab.0.center" timestamp="1591571669347">
+    <state width="536" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591580807920" />
+    <state width="536" height="952" key="GridCell.Tab.0.center" timestamp="1591580807919">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591571669347" />
-    <state width="536" height="952" key="GridCell.Tab.0.left" timestamp="1591571669347">
+    <state width="536" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591580807919" />
+    <state width="536" height="952" key="GridCell.Tab.0.left" timestamp="1591580807919">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591571669347" />
-    <state width="536" height="952" key="GridCell.Tab.0.right" timestamp="1591571669347">
+    <state width="536" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591580807919" />
+    <state width="536" height="952" key="GridCell.Tab.0.right" timestamp="1591580807919">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591571669347" />
+    <state width="536" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591580807919" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1591509166366">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
@@ -228,7 +228,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1591565299124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/group_anagrams" />
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____4_.coverage" NAME="__init__ (4) Coverage Results" MODIFIED="1591511903091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/k_th_largest_element_in_an_array" />
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____5_.coverage" NAME="__init__ (5) Coverage Results" MODIFIED="1591571280823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/top_k_frquent_elements" />
-    <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1591497762958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adobe/longest_palindromic_substring" />
-    <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1591571669332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/k_closest_point_to_origin" />
+    <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1591578309763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/k_closest_point_to_origin" />
+    <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1591580807906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/number_of_islands" />
   </component>
 </project>
