@@ -24,4 +24,6 @@
 > > * [Min Stack](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/min_stack/__init__.py)
 > > * [Flood Fill](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/flood_fill/__init__.py)
 > > * [First Unique Character In a String](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/first_unique_character_in_a_string/__init__.py)
+
+## Bloomberg
 > > * [Sort Character by Frequency](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/sort_character_by_frequency/__init__.py)
