@@ -27,3 +27,4 @@
 
 ## Bloomberg
 > > * [Sort Character by Frequency](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/sort_character_by_frequency/__init__.py)
+> > * [Decode String](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/decode_string/__init__.py)
