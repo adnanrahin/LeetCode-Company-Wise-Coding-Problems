@@ -38,29 +38,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
-  <component name="RunManager" selected="Python.__init__ (5)">
-    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode-Company-Wise-Coding-Problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bloomberg/sort_character_by_frequency" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bloomberg/sort_character_by_frequency/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.__init__">
     <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-Company-Wise-Coding-Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,13 +127,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Company-Wise-Coding-Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon/find_k_pairs_with_smallest_sums" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/find_k_pairs_with_smallest_sums/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.__init__ (5)" />
         <item itemvalue="Python.__init__ (3)" />
         <item itemvalue="Python.__init__ (4)" />
         <item itemvalue="Python.__init__ (2)" />
-        <item itemvalue="Python.__init__ (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,8 @@
       <workItem from="1591807458581" duration="1198000" />
       <workItem from="1591813565239" duration="5542000" />
       <workItem from="1591916538142" duration="10900000" />
-      <workItem from="1591935455914" duration="8861000" />
+      <workItem from="1591935455914" duration="10440000" />
+      <workItem from="1592004558646" duration="115000" />
     </task>
     <servers />
   </component>
@@ -191,22 +192,22 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2629" y="447" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591497105238" />
-    <state width="536" height="615" key="GridCell.Tab.0.bottom" timestamp="1591950367274">
+    <state width="536" height="952" key="GridCell.Tab.0.bottom" timestamp="1591952133302">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="615" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591950367274" />
-    <state width="536" height="615" key="GridCell.Tab.0.center" timestamp="1591950367274">
+    <state width="536" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591952133302" />
+    <state width="536" height="952" key="GridCell.Tab.0.center" timestamp="1591952133301">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="615" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591950367274" />
-    <state width="536" height="615" key="GridCell.Tab.0.left" timestamp="1591950367273">
+    <state width="536" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591952133301" />
+    <state width="536" height="952" key="GridCell.Tab.0.left" timestamp="1591952133301">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="615" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591950367273" />
-    <state width="536" height="615" key="GridCell.Tab.0.right" timestamp="1591950367274">
+    <state width="536" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591952133301" />
+    <state width="536" height="952" key="GridCell.Tab.0.right" timestamp="1591952133301">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="536" height="615" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591950367274" />
+    <state width="536" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1591952133301" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1591919701008">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
@@ -241,7 +242,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1591939538930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/flatten_binbray_tree_to_linked_list" />
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____4_.coverage" NAME="__init__ (4) Coverage Results" MODIFIED="1591931717971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/find_the_duplicate_number" />
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____5_.coverage" NAME="__init__ (5) Coverage Results" MODIFIED="1591947590820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/game_of_life" />
-    <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1591690621957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/first_unique_character_in_a_string" />
     <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1591692156481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bloomberg/sort_character_by_frequency" />
+    <SUITE FILE_PATH="coverage/LeetCode_Company_Wise_Coding_Problems$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1591951362349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amazon/find_k_pairs_with_smallest_sums" />
   </component>
 </project>
