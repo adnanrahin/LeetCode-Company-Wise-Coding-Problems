@@ -26,7 +26,7 @@
 > > * [First Unique Character In a String](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/first_unique_character_in_a_string/__init__.py)
 > > * [Find The Duplicate Number](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/find_the_duplicate_number/__init__.py)
 > > * [Linked List Cycle](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/linked_list_cycle/__init__.py)
-
+> > * [Flatten Binary Tree](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/flatten_binary_tree_to_linked_list/__init__.py)
 ## Bloomberg
 > > * [Sort Character by Frequency](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/sort_character_by_frequency/__init__.py)
 > > * [Decode String](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/decode_string/__init__.py)
