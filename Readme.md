@@ -28,6 +28,7 @@
 > > * [Linked List Cycle](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/linked_list_cycle/__init__.py)
 > > * [Flatten Binary Tree](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/flatten_binary_tree_to_linked_list/__init__.py)
 > > * [Game of Life](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/game_of_life/__init__.py)
+> > * [Two sum in BST](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/two_sum_bst/__init__.py)
 ## Bloomberg
 > > * [Sort Character by Frequency](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/sort_character_by_frequency/__init__.py)
 > > * [Decode String](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/decode_string/__init__.py)
