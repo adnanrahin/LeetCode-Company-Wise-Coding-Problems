@@ -29,7 +29,9 @@
 > > * [Flatten Binary Tree](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/flatten_binary_tree_to_linked_list/__init__.py)
 > > * [Game of Life](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/game_of_life/__init__.py)
 > > * [Two sum in BST](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/two_sum_bst/__init__.py)
-> > * [Find K Pairs with Smallest Sum](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/find_k_pairs_with_smallest_sums/__init__.py)
+> > * [Find K Pairs with Smallest Sum](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/find_k_pairs_with_smallest_sums/__init__.py) 
+> > * [Word Break](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Amazon/word_break/__init__.py)
+
 ## Bloomberg
 > > * [Sort Character by Frequency](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/sort_character_by_frequency/__init__.py)
 > > * [Decode String](https://github.com/Arx1971/LeetCode-Company-Wise-Coding-Problems/blob/master/Bloomberg/decode_string/__init__.py)
