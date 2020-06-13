@@ -16,4 +16,4 @@ s = Solution()
 word = "catsandog"
 voca = ["cats", "dog", "sand", "and", "cat"]
 
-print(s.wordBreak(s, voca))
+print(s.wordBreak(word, voca))
